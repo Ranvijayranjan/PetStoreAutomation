@@ -1,0 +1,8 @@
+13:40:00.121 [main] INFO  api.test.UserTests - ********** Creating user  *********
+13:40:04.158 [main] INFO  api.test.UserTests - **********User is created  *********
+13:40:04.168 [main] INFO  api.test.UserTests - ********** Reading User Info  *********
+13:40:05.790 [main] INFO  api.test.UserTests - ********** User info is displayed  *********
+13:40:05.795 [main] INFO  api.test.UserTests - ********** Updating User  *********
+13:40:07.426 [main] INFO  api.test.UserTests - ********** User updated  *********
+13:40:08.969 [main] INFO  api.test.UserTests - ********** Deleting User *********
+13:40:10.566 [main] INFO  api.test.UserTests - ********** User deleted  *********
